@@ -9,3 +9,5 @@ print('"3. Hello World!"')
 
 # Beispiel 4: Kombination von Anfuehrungszeichen, Ausgabe der einfachen Anfuehrungszeichen
 print("'4. Hello World!'")
+
+#Ende
